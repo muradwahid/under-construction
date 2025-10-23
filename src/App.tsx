@@ -26,13 +26,6 @@ function App() {
             <span className="text-slate-200 font-medium">Coming Soon</span>
           </div>
 
-          <a
-            href="mailto:contact@example.com"
-            className="flex items-center gap-3 px-6 py-3 bg-blue-600 rounded-lg hover:bg-blue-700 transition-all shadow-lg shadow-blue-900/30 hover:shadow-blue-900/50 group"
-          >
-            <Mail className="w-5 h-5 text-white group-hover:scale-110 transition-transform" />
-            <span className="text-white font-medium">Get Notified</span>
-          </a>
         </div>
 
         <div className="pt-12 space-y-3">
